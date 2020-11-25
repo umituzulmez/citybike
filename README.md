@@ -1,5 +1,13 @@
 # Citybike Project
 
+•	Endpoint: http://api.citybik.es/v2/networks
+•	Auth: No
+•	HTTPS: No
+•	Understands how the API works.
+•	Create some BDD scenarios and automate them using Java to test the API
+•	Test this particular scenario: “As a user I want to verify that the city Frankfurt is in Germany and return their corresponded latitude and longitude”
+
+
 In this project it is used Behaviour Driven and Data Driven Development approach.
 
 The framework is based upon BDD/Cucumber DD Framework
